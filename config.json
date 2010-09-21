@@ -1,6 +1,6 @@
 {
   "slides":       ["welcome.html"],
-  "title":        "Your presentation",
+  "title":        "RVM: Ruby cranked up to 11",
   "plugins":      ["resize", "iphone"],
   "transitions":  "fade"
 }
