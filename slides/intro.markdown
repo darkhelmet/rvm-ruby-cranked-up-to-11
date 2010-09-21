@@ -2,4 +2,4 @@
 
 Edmonton Rubyists
 
-September 20, 2010
+September 21, 2010
