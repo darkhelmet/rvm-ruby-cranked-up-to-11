@@ -1,6 +1,24 @@
 {
-  "slides":       ["welcome.html"],
-  "title":        "RVM: Ruby cranked up to 11",
-  "plugins":      ["resize", "iphone"],
-  "transitions":  "fade"
+  "plugins": [
+    "resize",
+    "iphone"
+  ],
+  "transitions": "fade",
+  "title": "RVM: Ruby cranked up to 11",
+  "theme": "slidedown",
+  "slides": [
+    "intro.markdown",
+    "bio.markdown",
+    "agenda.markdown",
+    "wtf-is-rvm.markdown",
+    "wtf-is-rvm-2.html",
+    "why-you-need-rvm.markdown",
+    "why-you-need-rvm-2.markdown",
+    "why-you-need-rvm-3.markdown",
+    "rvm-basics.markdown",
+    "rvm-rubies-install.markdown",
+    "rvm-gemsets.markdown",
+    "rvm-workflow.markdown",
+    "thanks.markdown"
+  ]
 }
